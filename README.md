@@ -87,6 +87,14 @@ Meu nome é Antonio Paulo (Paul) e sou um estudante recém-chegado ao CEUB, curs
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="Spyder" 
+    title="Spyder"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" 
+/>
 
 <br/>
 <br/>
