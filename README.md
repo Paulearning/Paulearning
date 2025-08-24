@@ -5,20 +5,6 @@
 Meu nome é Antonio Paulo (Paul) e sou um estudante recém-chegado ao CEUB, cursando Ciência de Dados e Machine Learning. Estou super empolgado em iniciar essa jornada e ansioso para explorar o vasto mundo dos dados e da inteligência artificial. Aqui, compartilharei projetos que estou desenvolvendo, mesmo que simples, para demonstrar meu progresso e minhas habilidades em construção. Este espaço será meu laboratório para experimentar, errar, aprender e evoluir.
 
 <p align="left">
-    <a href="https://www.youtube.com/">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/Paulearning?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
